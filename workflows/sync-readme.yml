@@ -20,4 +20,4 @@ jobs:
         git config --global user.name "M-APatel1"
         git add README.md
         git commit -m "Update README" -a || echo "No changes to commit"
-        git push
+        git push origin main
