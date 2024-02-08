@@ -1,0 +1,23 @@
+name: Sync README to Root
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'Profile/README.md'
+
+jobs:
+  copy-readme:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Copy README to repository root
+      run: cp Profile/README.md README.md
+    - name: Commit and push if changed
+      run: |
+        git config --global user.email "M-APatel1@Lorentz.Co"
+        git config --global user.name "M-APatel1"
+        git add README.md
+        git commit -m "Update README" -a || echo "No changes to commit"
+        git push
