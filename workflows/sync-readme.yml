@@ -13,7 +13,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Copy README to repository root
-      run: cp Profile/README.md README.md
+      run: cp profile/README.md README.md
     - name: Commit and push if changed
       run: |
         git config --global user.email "M-APatel1@Lorentz.Co"
