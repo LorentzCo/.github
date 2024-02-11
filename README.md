@@ -1,3 +1,3 @@
 *See profile/README.md*    
      
-This is not an active repository.
+This is **not** an active repository.
