@@ -4,7 +4,7 @@
 
 # 🔄 Sync (GitHub)    
 **General Overview:** https://Lorentz.Co/Resources/Sync   
-**Sync Spin Page:** https://Spin.Lorentz.Co/Sync    
+**Documentation:** https://Spin.Lorentz.Co/Sync    
 **Core Repository:** https://Spin.Lorentz.Co/LCR     
 
 # 👨‍💻 Interested in Contributing?
