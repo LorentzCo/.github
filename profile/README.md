@@ -8,4 +8,4 @@
 **Core Repository:** https://Spin.Lorentz.Co/LCR     
 
 # 👨‍💻 Interested in Contributing?
-**Guide:** https://Spin.Lorentz.Co/Sync/Contribute
+**Guide:** https://Spin.Lorentz.Co/LCR/Project/Contribute
