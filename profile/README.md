@@ -1,4 +1,4 @@
-# SO(3,1) {Λ} Lorentz.Co   
+# {X} Lorentz.Co   
 **Main Website:** https://lorentz.co    
 **AETHER:** https://aether.software   
 ---
