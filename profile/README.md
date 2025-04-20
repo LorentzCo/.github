@@ -1,5 +1,5 @@
 # {X} Lorentz.Co   
-**Main Website:** https://lorentz.co    
+**WEBSITE:** https://lorentz.co    
 **AETHER:** https://aether.software   
 ---
 **Wiki:** https://spin.lorentz.co   
